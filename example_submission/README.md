@@ -44,6 +44,7 @@ example_submission
 │   └── scorer.py
 ├── README.md          <- The top-level README for developers using this project.
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment
+├── Makefile           <- Makefile with commands like `make requirements`
 └── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
 ```
 
@@ -111,13 +112,6 @@ Options:
 ```
 
 By default, predictions will be saved out to `data/processed/submission.csv`.
-
-
-TODO:
-- update file structure at end
-- go through and remove unecessary files from cookiecutter. makefile, etc
-
-
 
 --------
 
