@@ -13,27 +13,26 @@ Your goal is to **set up your solution as if it were a finished open-source proj
 ## Repo organization
 ```
 .
-├── Prize_recipient_documentation_guide.pdf <- Full list of items prize winners are required to submit
+├── Documentation_guide.pdf <- Full list of items winners are required to submit
 ├── README.md          <- You are here!
+├── README_template.md <- Template that you can fill in to document your solution code
 ├── data               <- Folder for storing your solution's data
-├── example_submission <- Example submission folder
-│   ├── README.md      <- Example README containing all required information
-│   └── ...            <- Codebase for the example submission
 ├── models             <- Folder for your trained models, model predictions, or model summaries
 ├── requirements.txt   <- Placeholder for requirements to recreate your analysis environment
 ├── src                <- Folder for your project's source code
-└── README_template.md <- Template that you can fill in to document your solution code
+└── example_submission <- Example submission folder
+    ├── README.md      <- Example README containing all required information
+    └── ...            <- Codebase for the example submission
 ```
 
 ## Example submission
 
 The example submission is based on the benchmark [blog post](https://www.drivendata.co/blog/genetic-attribution-benchmark/) for the Genetic Engineering Attribution Challenge. The goal is to provide an example README that covers all necessary information for a winning submission. Code is provided for reference to help understand the example README.
 
-The structure of this solution is based on DrivenData's [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science/tree/master/%7B%7B%20cookiecutter.repo_name%20%7D%7D) repo, which you can read more about [here](https://drivendata.github.io/cookiecutter-data-science/).
+The structure of this solution is based on DrivenData's [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science/tree/master/%7B%7B%20cookiecutter.repo_name%20%7D%7D) repo, which we recommend for your submission.
 
 ## Tips & Resources
 
-- We recommend our [open source data science template](http://drivendata.github.io/cookiecutter-data-science/) as an effective structure for sharing code.
-- An example README is provided in the `example_submission` folder, along with corresponding code for reference. The example submission is based on the benchmark [blog post](https://www.drivendata.co/blog/genetic-attribution-benchmark/) for the Genetic Engineering Attribution Challenge.
+- We recommend our cookiecutter [open source data science template](http://drivendata.github.io/cookiecutter-data-science/) as an effective structure for sharing code.
 - The [3rd Place winner](https://github.com/drivendataorg/deep-chimpact-winners/tree/master/3rd%20Place) from the Deep Chimpact: Depth Estimation for Wildlife Conservation competition provides a good example of a well-written README for more complicated code. A big thank you to user vecxoz for a well-written and clearly documented solution!
-- For a full list of what you need to submit, see the `Prize_recipient_documentation_guide.pdf`.
+- For a full list of what you need to submit, see the `Documentation_guide.pdf`.
