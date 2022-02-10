@@ -31,7 +31,7 @@ The structure of this repo is based on DrivenData's [cookiecutter-data-science](
 
 The example submission is based on the [benchmark](https://www.drivendata.co/blog/genetic-attribution-benchmark/) for the Genetic Engineering Attribution Challenge. The goal is to provide an example README that covers all necessary information for a winning submission. Code is provided for reference to help understand the example README.
 
-## Addtiional tips & resources
+## Additional tips & resources
 
 - Check out our cookiecutter [open source data science template](http://drivendata.github.io/cookiecutter-data-science/) as a general resource for sharing data science code effectively.
 - The [3rd Place winner](https://github.com/drivendataorg/deep-chimpact-winners/tree/master/3rd%20Place) from the Deep Chimpact: Depth Estimation for Wildlife Conservation competition provides a good example of a well-written README for more complicated code. A big thank you to user vecxoz for a well-written and clearly documented solution!
