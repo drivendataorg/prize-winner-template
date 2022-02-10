@@ -46,7 +46,7 @@ Machine specs you used for inference/training, and rough estimates of how long e
 
 # Run training
 
-Instructions for training a model from scratch using your code. Ideally, you will have a main point of entry such as an executable script that runs all steps of the pipeline in a deterministic fashion. Eg. a `.py` file, `.sh` file, or IPython notebook
+Instructions for training a model from scratch using your code. Ideally, you will have a main point of entry such as an executable script that runs all steps of the pipeline in a deterministic fashion e.g., a `.py` file, `.sh` file, or IPython notebook
 
 Consider questions like:
 - How much space will your model weights file(s) require?
@@ -57,7 +57,7 @@ Consider questions like:
 
 # Run inference
 
-Instructions for generating a final submission using your code. Ideally, you will have a main point of entry to your code such as an executable script that runs all steps of the pipeline in a deterministic fashion. Eg. a `.py` file, `.sh` file, or IPython notebook
+Instructions for generating a final submission using your code. Ideally, you will have a main point of entry to your code such as an executable script that runs all steps of the pipeline in a deterministic fashion e.g., a `.py` file, `.sh` file, or IPython notebook
 
 **We should be able to rerun inference programmatically using only the raw competition data and your model weights.** There should not be any retraining or manual input required.
 
