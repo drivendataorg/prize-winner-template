@@ -4,24 +4,22 @@
 
 This repository is provided to help with structuring and documenting your solution code before you submit it for review. **We recommend cloning this repository as a starting point for your submission.**
 
-Your goal is to **set up your solution as if it were a finished open-source project**, with clear instructions, dependencies and requirements identified, and code structured logically with an obvious point of entry. In particular, make sure that the inference step is fully reproducible so that it can be run with any new set of data, whether or not it is included in the test set. 
+Your goal is to **set up your solution as if it were a finished open-source project**, with clear instructions, dependencies and requirements identified, and code structured logically with an obvious point of entry. In particular, you should aim for the inference step to be fully reproducible so that it can be run with any new set of data, whether or not it is included in the test set. 
 
 ## Repo organization
 ```
 .
 ├── README.md          <- You are here!
 ├── Documentation_guide.pdf <- Reference for the solution documentation winners are required to submit
-├── Template_repo
-    ├── README_template.md <- Template that you can fill in to document your solution code
-    ├── src                <- Folder for your project's source code
-    └── models             <- Folder for your trained models, model predictions, or model summaries
-
-└── Example_submission <- Example submission folder
+├── README_template.md <- Template that you can fill in to document your solution code
+├── src                <- Folder for your project's source code
+├── models             <- Folder for your trained models, model predictions, or model summaries
+└── Example_submission <- Example of a solution submission
     ├── README.md      <- Example README containing all required information
     └── ...            <- Codebase for the example submission
 ```
 
-The structure of the repo is based on DrivenData's [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science/tree/master/%7B%7B%20cookiecutter.repo_name%20%7D%7D) project template, which we recommend for your submission. Below are a few notes to keep in mind for the purposes of competition solutions.
+The structure of this repo is based on DrivenData's [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science/tree/master/%7B%7B%20cookiecutter.repo_name%20%7D%7D) project template, which we recommend for your submission. Below are a few notes to keep in mind for the purposes of competition solutions.
 
 ### README
 Your solution must include an extremely clear README with obvious instructions, dependencies and requirements identified, and clearly specifying what code needs to run to get to your submission from a fresh system with no dependencies. See the provided [template](https://github.com/drivendataorg/prize-winner-template/blob/main/README_template.md) for a guide to get started.
