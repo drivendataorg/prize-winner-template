@@ -27,6 +27,8 @@ The structure of this repo is based on DrivenData's [cookiecutter-data-science](
 
 **Data**: You do not need to include the raw data provided in the competition. If your solution has additional data that it needs, you can create a `data` folder and include that in your archive.
 
+Note that the example README and README template are python specific. If you are using another programming language, you may need to adjust the references and tools.
+
 ## Example submission
 
 The example submission is based on the [benchmark](https://www.drivendata.co/blog/genetic-attribution-benchmark/) for the Genetic Engineering Attribution Challenge. The goal is to provide an example README that covers all necessary information for a winning submission. Code is provided for reference to help understand the example README.
